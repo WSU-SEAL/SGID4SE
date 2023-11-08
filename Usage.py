@@ -1,8 +1,8 @@
 from SGID4SE import SGID4SE
 
-SGIDModel =SGID4SE(ALGO="RF", count_words=True)
+SGIDModel =SGID4SE(ALGO="BERT", count_words=False)
 
-SGIDModel.init_predictor(strategy="mixed", ratio=1)
+SGIDModel.init_predictor(strategy="random", ratio=1)
 
 
 
