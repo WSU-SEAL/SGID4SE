@@ -21,7 +21,7 @@ Find the short paper published in Student Research Competition @ASE'22 paper tit
 
 ## Dataset
 
-Find our full dataset here https://github.com/WSU-SEAL/SGID4SE/blob/main/models/SGID-dataset-full.xlsx that consists of 11,007 labeled GitHub pull requests and issue comments where 1,422 are identified as SGID content.
+Find our full dataset is here SGID4SE/blob/main/models/SGID-dataset-full.xlsx. It consists of 11,007 labeled GitHub pull requests and issue comments where 1,422 are identified as SGID content.
 
 ## Installation
 
