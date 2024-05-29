@@ -109,7 +109,7 @@ We welcome contributions to the SGID4SE project! If you'd like to contribute, pl
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
