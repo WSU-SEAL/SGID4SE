@@ -78,6 +78,8 @@ Here,
    ```bash
    python SGID4SE.py --algo BERT --ratio 1 --oversample random --bias 1 --repeat 1 --retro
    ```
+   ![image](https://github.com/user-attachments/assets/669c5249-916a-41c8-8dd9-e158b14acec4)
+
 
 ### Expected Output
 
