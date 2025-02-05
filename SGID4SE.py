@@ -347,7 +347,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--oversample', type=str, help='Oversampling strategy:  '+
                                                    'random | generate | mixed', default="random")
-    parser.add_argument('--ratio', type=int, help='Oversample minority class before training. Argument:  '+
+    parser.add_argument('--ratio', type=float, help='Oversample minority class before training. Argument:  '+
                                                    'majority/minority ratio', default=1)
     parser.add_argument('--bias', type=int, help='Class weighting bias' +
                                                        'Minority multiply factor', default=1)
