@@ -12,13 +12,17 @@ Welcome to the SGID4SE repository! This project is part of the Wayne State Unive
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Citation](#citation)
 
 ## Overview
 
 SGID4SE is designed to identify Sexual orientation or Gender Identity based Discriminatory content identification for Software Engineering texts. 
-Find our full paper "Automated Identification of Sexual Orientation and Gender Identity Discriminatory Texts from Issue Comments" here: https://arxiv.org/pdf/2311.08485 .
+Find our full paper, which was accepted in TOSEM 2025, titled "Automated Identification of Sexual Orientation and Gender Identity Discriminatory Texts from Issue Comments" here: https://dl.acm.org/doi/pdf/10.1145/3757739 
 
 Find the short paper published in Student Research Competition @ASE'22 paper titled "Identifying Sexism and Misogyny in Pull Request Comments" here: https://dl.acm.org/doi/abs/10.1145/3551349.3559515 .
+
+
+
 
 ## Dataset
 
@@ -128,3 +132,16 @@ For questions or further information, please contact the project maintainers at 
 ---
 
 Thank you for using SGID4SE! 
+
+##Citation
+If you use our work, please cite our paper:
+
+```
+@article{sultana2025automated,
+  title={Automated identification of sexual orientation and gender identity discriminatory texts from issue comments},
+  author={Sultana, Sayma and Sarker, Jaydeb and Israt, Farzana and Paul, Rajshakhar and Bosu, Amiangshu},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2025},
+  publisher={ACM New York, NY}
+}
+```
