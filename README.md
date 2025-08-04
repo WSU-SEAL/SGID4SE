@@ -133,7 +133,7 @@ For questions or further information, please contact the project maintainers at 
 
 Thank you for using SGID4SE! 
 
-##Citation
+## Citation
 If you use our work, please cite our paper:
 
 ```
